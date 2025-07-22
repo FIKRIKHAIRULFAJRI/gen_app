@@ -3,11 +3,11 @@ import 'splash_screen/splash_screen.dart';
 import 'home_screen.dart';
 
 void main() {
-  runApp(const GenApp());
+  runApp(const GennApp());
 }
 
-class GenApp extends StatelessWidget {
-  const GenApp({super.key});
+class GennApp extends StatelessWidget {
+  const GennApp({super.key});
 
   @override
   Widget build(BuildContext context) {
