@@ -8,7 +8,7 @@ void main() {
 
 class GenApp extends StatelessWidget {
   const GenApp({super.key});
-  
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
